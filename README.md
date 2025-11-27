@@ -23,6 +23,7 @@ O projeto foi estruturado utilizando **Java 21**, **POO**, **DDD (Domain-Driven 
 ## 🧱 Arquitetura do Projeto
 
 O sistema segue uma arquitetura inspirada em **DDD**, separando responsabilidades:
+```
 src/
 └── application/
 ├── ConsoleMenu.java
@@ -52,6 +53,7 @@ src/
 │ └── vo/
 │
 └── Main.java
+```
 
 ---
 
