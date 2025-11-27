@@ -4,6 +4,11 @@ O **Learn XP** é um sistema acadêmico desenvolvido como projeto universitário
 
 O projeto foi estruturado utilizando **Java 21**, **POO**, **DDD (Domain-Driven Design)**, e simulação de persistência em memória via listas.
 
+
+## Referência
+
+ - [Future at Work](https://www.fiap.com.br/graduacao/global-solution/)
+
 ---
 
 ## 📌 Objetivos do Sistema
